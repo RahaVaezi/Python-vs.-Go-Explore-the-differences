@@ -5,3 +5,5 @@ When you decide to start a new coding project, it's so important to choose a sui
 In the following you can explore the differences, similarities, and use cases for Python and Go, two of the most popular programming languages in the world.
 
 ![image](https://i.morioh.com/bc83d4c519.png)
+
+## Python
