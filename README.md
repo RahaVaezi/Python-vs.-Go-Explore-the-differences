@@ -76,3 +76,11 @@ func main() {
 Enter temperature in Celsius: 39.22
 Temperature in Fahrenheit: 102.60
 ```
+
+## Python and Go Comparison
+Technically, Go is a procedural, functional language built for speed, and Python is an object-oriented, imperative, functional, and procedural language.
+Go supports concurrency, the ability of an algorithm to run its steps out of order, and Python doesn’t.
+In short, if you are working with data and your audience is people, use Python. If you are working with servers, use Go.
+
+Below is the list of points; describe the comparison Between Python and Go.
+
