@@ -49,3 +49,30 @@ This language support concurrent programming and also allows running multiple pr
 Go has garbage collection, which itself does the memory management and allows the deferred execution of functions.
 
 ### Go code example:
+In this program, we will read the temperature value in Celsius and convert it into Fahrenheit and print the result on the console screen.
+
+**Source Code:**
+
+``` C
+//Golang program to convert the Celsius to Fahrenheit.
+
+package main
+import "fmt"
+
+func main() {
+    var ftemp float64=0
+    var ctemp float64=0
+    
+    fmt.Printf("Enter temperature in Celsius: ");
+    fmt.Scanf("%f",&ctemp);
+    ftemp= (ctemp*1.8)+32;
+    fmt.Printf("Temperature in Fahrenheit: %.2f",ftemp);
+}
+```
+
+**Output:**
+
+``` C
+Enter temperature in Celsius: 39.22
+Temperature in Fahrenheit: 102.60
+```
