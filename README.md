@@ -42,3 +42,10 @@ We encourage you to create a Python program to convert Fahrenheit to Celsius on 
 ``` C
 celsius = (fahrenheit - 32) / 1.8
 ```
+
+## [The Go Programming Language](https://go.dev)
+Short for Golang, Go was first designed at Google by Robert Griesemer, Rob Pike, and Ken Thompson in 2007. Go is an open-source programming and a statically-typed compiled language. 
+This language support concurrent programming and also allows running multiple processes simultaneously. This is achieved using channels, goroutines, etc. 
+Go has garbage collection, which itself does the memory management and allows the deferred execution of functions.
+
+### Go code example:
