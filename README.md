@@ -89,3 +89,8 @@ BASIS FOR COMPARISON | Python | Go
 **Paradigm** | Object-oriented, imperative, functional, procedural, reflective | Procedural, functional and concurrent
 **Execution** | Interpreted | Compiled
 **Typed** | Dynamically typed language | Statically typed language
+**Usage** | Python is more focused to write web applications | Go is more focused on being a system language; still, it’s eating away python share of web apps
+**Memory** | Python offers no memory management | With Go, you can go dirty with memory management
+**Syntax** | The syntax uses indentation to indicate code blocks | The syntax is based on the opening and closing braces
+**Concurrency** | Lacks inbuilt concurrency | Concurrency is inbuilt
+**Object Orientation** | First class Object Oriented programming, support for functional concepts | Mild support for Object Orientation and functional concepts but is strongly typed
