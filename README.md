@@ -86,3 +86,5 @@ Below is the list of points; describe the comparison Between Python and Go.
 
 BASIS FOR COMPARISON | Python | Go
 :--- | :---: | ---:
+Paradigm | Object-oriented, imperative, functional, procedural, reflective | Procedural, functional and concurrent
+:---|
