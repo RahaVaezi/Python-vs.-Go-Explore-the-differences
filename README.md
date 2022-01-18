@@ -95,6 +95,7 @@ BASIS FOR COMPARISON | Python | Go
 **Concurrency** | Lacks inbuilt concurrency | Concurrency is inbuilt
 **Object Orientation** | First class Object Oriented programming, support for functional concepts | Mild support for Object Orientation and functional concepts but is strongly typed
 
+
 ## What is the most desirable: Python or Go?
 Right now, in Go’s development, Go is mostly used for server-side applications.
 Python is the data scientist’s go-to language, and likely will be for a long time to come. 
