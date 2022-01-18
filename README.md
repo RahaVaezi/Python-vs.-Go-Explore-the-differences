@@ -84,3 +84,5 @@ In short, if you are working with data and your audience is people, use Python. 
 
 Below is the list of points; describe the comparison Between Python and Go.
 
+BASIS FOR COMPARISON | Python | Go
+:--- | :---: | ---:
